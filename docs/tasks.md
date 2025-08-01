@@ -15,7 +15,6 @@
   - Implement database migration scripts
   - Create Sequelize or Prisma models with relationships
 
-
   - _Requirements: 1.3, 2.4, 3.2, 3.3, 3.4_
 
 - [ ] 3. Build authentication system
@@ -23,6 +22,8 @@
   - Implement user registration endpoint with password hashing
   - Create login endpoint with JWT token generation
   - Build logout functionality and token invalidation
+
+
   - Add authentication middleware for protected routes
   - Create user profile management endpoints
   - _Requirements: 1.1, 1.3, 3.2_
