@@ -8,13 +8,14 @@
   - Configure development scripts and package.json files
   - _Requirements: 1.1, 1.2, 1.3, 1.4_
 
-
 - [ ] 2. Implement database schema and models
 
   - Set up PostgreSQL database connection
   - Create User, Itinerary, ItineraryItem, and Collaborator database tables
   - Implement database migration scripts
   - Create Sequelize or Prisma models with relationships
+
+
   - _Requirements: 1.3, 2.4, 3.2, 3.3, 3.4_
 
 - [ ] 3. Build authentication system
